@@ -1,0 +1,1114 @@
+.weatherhifi-container {
+  min-height: 100vh;
+}
+.weatherhifi-weatherhifi {
+  width: 356px;
+  height: 770px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.3628072142601013px;
+  border-radius: 36.28071975708008px;
+  background-color: rgba(247, 247, 247, 1);
+}
+.weatherhifi-vector3 {
+  top: 112.3442153930664px;
+  left: 93.37702941894531px;
+  width: 276px;
+  height: 95px;
+  position: absolute;
+}
+.weatherhifi-vector2 {
+  top: 252.4098358154297px;
+  left: -51.06562423706055px;
+  width: 257px;
+  height: 105px;
+  position: absolute;
+}
+.weatherhifi-ellipse1 {
+  top: 137.14756774902344px;
+  left: 86.08197784423828px;
+  width: 179px;
+  height: 187px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-sun {
+  top: 173.62294006347656px;
+  left: 115.26229858398438px;
+  width: 119px;
+  height: 119px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-rectangle13 {
+  top: 583.6065673828125px;
+  left: -5.6843418860808015e-14px;
+  width: 169px;
+  height: 127px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-radius: 20.003965377807617px;
+}
+.weatherhifi-rectangle14 {
+  top: 583.6065673828125px;
+  left: 188.21310424804688px;
+  width: 169px;
+  height: 127px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-radius: 20.003965377807617px;
+}
+.weatherhifi-bars-status-bari-phone-x-dark {
+  top: 0px;
+  left: -0.8334754705429077px;
+  width: 357px;
+  height: 41.8571891784668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 0);
+}
+.weatherhifi-battery {
+  top: 16.489215850830078px;
+  left: 320.2164306640625px;
+  width: 23.14325714111328px;
+  height: 10.781396865844727px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-border {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 11px;
+  opacity: 0.35;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.951299786567688px;
+  border-radius: 2.536799430847168px;
+}
+.weatherhifi-cap {
+  top: 3.4880893230438232px;
+  left: 21.879894256591797px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.weatherhifi-capacity {
+  top: 1.902599573135376px;
+  left: 1.902599573135376px;
+  width: 17px;
+  height: 7px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 1.268399715423584px;
+}
+.weatherhifi-wifi {
+  top: 16.48666763305664px;
+  left: 300.6107177734375px;
+  width: 15px;
+  height: 10px;
+  position: absolute;
+}
+.weatherhifi-cellular-connection {
+  top: 16.806297302246094px;
+  left: 279.68212890625px;
+  width: 16px;
+  height: 10px;
+  position: absolute;
+}
+.weatherhifi-time-style {
+  top: 6.976179122924805px;
+  left: 19.977294921875px;
+  width: 51px;
+  height: 19.977294921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.weatherhifi-text {
+  top: 6.659111976623535px;
+  left: 5.960464477539062e-7px;
+  color: rgba(0, 0, 0, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 14.26949691772461px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-group21 {
+  top: 204.63262939453125px;
+  left: 138.77664184570312px;
+  width: 74px;
+  height: 62.3409538269043px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-group20 {
+  top: 0px;
+  left: 0px;
+  width: 74px;
+  height: 62.3409538269043px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-text02 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 30.005950927734375px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-text03 {
+  top: 38.3409538269043px;
+  left: 11.669034957885742px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 20.003965377807617px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-group22 {
+  top: 447.1806945800781px;
+  left: 127.10769653320312px;
+  width: 96.68582916259766px;
+  height: 96.68582916259766px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 97px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-group201 {
+  top: 23.56724739074707px;
+  left: 15.10721206665039px;
+  width: 67px;
+  height: 44.79704284667969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-text04 {
+  top: -0.000013879714970244095px;
+  left: 8.459935188293457px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 21.754310607910156px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-text05 {
+  left: -6px;
+  color: rgb(255, 255, 255);
+  bottom: 1px;
+  height: auto;
+  position: absolute;
+  font-size: 14.502876281738281px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-line3 {
+  top: 305.48583984375px;
+  left: 175.4506378173828px;
+  width: 80px;
+  height: 0px;
+  position: absolute;
+}
+.weatherhifi-line4 {
+  top: 405.50567626953125px;
+  left: 175.4506378173828px;
+  width: 37px;
+  height: 0px;
+  position: absolute;
+}
+.weatherhifi-text06 {
+  top: 388.098388671875px;
+  left: 129.8524627685547px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-rectangle12 {
+  top: 650.1288452148438px;
+  left: 0.8334754705429077px;
+  width: 357px;
+  height: 135px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20.003965377807617px;
+}
+.weatherhifi-group25 {
+  top: 611.7879638671875px;
+  left: 17.503459930419922px;
+  width: 63.34589385986328px;
+  height: 20.00396728515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.weatherhifi-text07 {
+  top: 1.666882872581482px;
+  left: 17.0875244140625px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-group26 {
+  top: 609.2875366210938px;
+  left: 270.0535583496094px;
+  width: 63.34589385986328px;
+  height: 20.00396728515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.weatherhifi-text08 {
+  top: 1.666882872581482px;
+  left: 17.0875244140625px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-text09 {
+  top: 660.130859375px;
+  left: 21.880552291870117px;
+  color: rgb(129, 129, 129);
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text10 {
+  top: 590.901611328125px;
+  left: 7.295079708099365px;
+  color: rgba(255, 255, 255, 0.82);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text11 {
+  top: 587.6165161132812px;
+  left: 272.97161865234375px;
+  color: rgba(255, 255, 255, 0.82);
+  height: auto;
+  position: absolute;
+  font-size: 13.335978507995605px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-group23 {
+  top: 684.73876953125px;
+  left: 17.503459930419922px;
+  width: 63.34589385986328px;
+  height: 20.00396728515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.weatherhifi-text12 {
+  top: 2.4579715728759766px;
+  left: 13.135880470275879px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 13.335410118103027px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-group24 {
+  top: 714.9180908203125px;
+  left: 14.59015941619873px;
+  width: 324.6437683105469px;
+  height: 45.23268127441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.weatherhifi-text13 {
+  top: 720.9761962890625px;
+  left: 26.671911239624023px;
+  color: rgb(0, 0, 0);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text18 {
+  top: 720.9761962890625px;
+  left: 75.848388671875px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text25 {
+  top: 720.9761962890625px;
+  left: 125.0248031616211px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text32 {
+  top: 720.9761962890625px;
+  left: 174.2012481689453px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text39 {
+  top: 720.9761962890625px;
+  left: 223.37762451171875px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text46 {
+  top: 720.9761962890625px;
+  left: 272.5540466308594px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text53 {
+  top: 720.7539672851562px;
+  left: 309.3114929199219px;
+  color: rgba(0, 0, 0, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 10.001982688903809px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-group27 {
+  top: 555.7246704101562px;
+  left: 284.4673156738281px;
+  width: 7.62460994720459px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 7.625959873199463px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-ellipse3 {
+  top: 732.4263305664062px;
+  left: 33.55738067626953px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse4 {
+  top: 732.4263305664062px;
+  left: 83.16389465332031px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse5 {
+  top: 732.4263305664062px;
+  left: 132.77047729492188px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse6 {
+  top: 732.4263305664062px;
+  left: 180.9180145263672px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse7 {
+  top: 732.4263305664062px;
+  left: 230.52459716796875px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse8 {
+  top: 732.4263305664062px;
+  left: 280.13116455078125px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-ellipse9 {
+  top: 732.4263305664062px;
+  left: 316.6065673828125px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.weatherhifi-undrawbikeride7xit1 {
+  right: 25px;
+  width: 66px;
+  bottom: 56px;
+  height: 60px;
+  position: absolute;
+}
+.weatherhifi-group48 {
+  top: 598.1967163085938px;
+  left: 112.3442153930664px;
+  width: 43.8370361328125px;
+  height: 46.68852233886719px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-vector {
+  top: 27.981475830078125px;
+  left: 28.222911834716797px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.weatherhifi-vector01 {
+  top: 34.563568115234375px;
+  left: 34.78144073486328px;
+  width: 0px;
+  height: 12px;
+  position: absolute;
+}
+.weatherhifi-vector02 {
+  top: 32.86582946777344px;
+  left: 33.1379280090332px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector03 {
+  top: 37.283748626708984px;
+  left: 29.60853385925293px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.weatherhifi-vector04 {
+  top: 14.693506240844727px;
+  left: 0.4969150424003601px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.weatherhifi-vector05 {
+  top: 21.304738998413086px;
+  left: 6.740695953369141px;
+  width: 0px;
+  height: 24px;
+  position: absolute;
+}
+.weatherhifi-vector06 {
+  top: 19.60700035095215px;
+  left: 5.423871994018555px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector07 {
+  top: 23.48969078063965px;
+  left: 1.871734619140625px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.weatherhifi-vector08 {
+  top: 34.68285369873047px;
+  left: 1.6978431940078735px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.weatherhifi-vector09 {
+  top: 32.98511505126953px;
+  left: 0.00007322439341805875px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector10 {
+  top: 0.00002473436325090006px;
+  left: 14.729979515075684px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.weatherhifi-vector11 {
+  top: 6.642868995666504px;
+  left: 21.35274314880371px;
+  width: 0px;
+  height: 40px;
+  position: absolute;
+}
+.weatherhifi-vector12 {
+  top: 4.926126480102539px;
+  left: 19.654972076416016px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector13 {
+  top: 33.89936065673828px;
+  left: 14.440350532531738px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector14 {
+  top: 10.637051582336426px;
+  left: 16.13808822631836px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.weatherhifi-vector15 {
+  top: 25.42542839050293px;
+  left: 16.13808822631836px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.weatherhifi-vector16 {
+  top: 35.59709930419922px;
+  left: 16.13808822631836px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.weatherhifi-vector17 {
+  top: 17.973434448242188px;
+  left: 24.973772048950195px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-vector18 {
+  top: 19.67129898071289px;
+  left: 21.384702682495117px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+}
+.weatherhifi-vector19 {
+  top: 11.07681655883789px;
+  left: 33.12813949584961px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.weatherhifi-vector20 {
+  top: 18.216249465942383px;
+  left: 41.02465057373047px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.weatherhifi-group49 {
+  top: 596.7376708984375px;
+  left: 220.31150817871094px;
+  width: 10.213114738464355px;
+  height: 45.39162063598633px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.weatherhifi-vector21 {
+  top: 23.263286590576172px;
+  left: 0.1890413612127304px;
+  width: 10px;
+  height: 22px;
+  position: absolute;
+}
+.weatherhifi-vector22 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 45px;
+  position: absolute;
+}
+.weatherhifi-group32 {
+  top: 92.96330261230469px;
+  left: 8.754120826721191px;
+  width: 110.88524627685547px;
+  height: 28.69059181213379px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(225, 225, 225, 1);
+}
+.weatherhifi-text60 {
+  top: 8.105795860290527px;
+  left: 5.8234333992004395px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 9.983075141906738px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.weatherhifi-vector23 {
+  top: 9px;
+  right: 9px;
+  width: 10px;
+  height: 13px;
+  position: absolute;
+}
+.weatherhifi-group50 {
+  top: 540.5827026367188px;
+  left: 8.465505599975586px;
+  width: 110.88524627685547px;
+  height: 28.69059181213379px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(176, 176, 176, 1);
+}
+.weatherhifi-group51 {
+  top: 540.5827026367188px;
+  left: 8.465505599975586px;
+  width: 64.09593963623047px;
+  height: 28.69059181213379px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(98, 151, 213, 1);
+}
+.weatherhifi-flag-u-s {
+  top: 100.6721420288086px;
+  left: 70.03277587890625px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+}
+.weatherhifi-text61 {
+  top: 544.2108154296875px;
+  left: 27.815223693847656px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 19.349716186523438px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.weatherhifi-text62 {
+  top: 543.0014038085938px;
+  left: 82.23628997802734px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 19.349716186523438px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
